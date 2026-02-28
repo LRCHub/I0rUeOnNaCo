@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "未だ見ぬ明日に",
+  "base_artist": "ASIAN KUNG-FU GENERATION",
+  "createdAt": "2026-02-28T14:43:47.510737Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "未だ見ぬ明日に",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/01_未だ見ぬ明日に_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "未だ見ぬ明日に",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/pl_01_未だ見ぬ明日に_ASIAN_KUNG-FU_GENERATION.txt"
+    }
+  ]
+}
